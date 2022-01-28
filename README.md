@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rahul Ranjan
 - 👀 I’m interested in analysing things around me and find out how they are linked to every aspect of life.
-- 🌱 I’m currently learning 'Data Science, Machine Learning using Python and R, Handling big data using Big data hadoop and spark framework using scala and pyspark, Creating vizualiztion using Tableau.
+- 🌱 I’m currently trying to hone my skills on 'Data Science, Machine Learning using Python and R, Handling big data using Big data hadoop and spark framework using scala and pyspark, Creating vizualiztion using Tableau.
 - 📫 you can reach out to me on my LinkedIn Id- " https://www.linkedin.com/in/rahul-ranjan-316018195/ " 
 
 <!---
